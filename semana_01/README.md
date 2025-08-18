@@ -1,3 +1,2 @@
-🐍 SEMANA 1
--Aplicações instaladas e ambiente configurado de acordo
--Texto recomenado lido
+Semana 01:
+-Texto lido e instaladas as depedências necessárias
