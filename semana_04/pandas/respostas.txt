@@ -1,0 +1,11 @@
+6 - Nesses casos em que, as imagens eram benignas, mas possuiam
+baixa probabilidade de serem benignas podem indicar que: são casos dificies
+ou seja, possuem caracteristicas parecidas com exames que são malignos por 
+exemplo, o modelo não estar aprendendo bem certos padrões de benignos, e por 
+fim outra explicação possível para esses resultados são ruídos nas amostras.
+
+7 - Casos como esses em que, as imagens eram malignas, mas o modelo deu
+maior probabilidade de serem benignas podem indicar algumas coisas, a pri-
+meira é que as amostras disponíveis estão passíveis de estarem com ruído ou
+algo do tipo, além disso, podem ser também imagens de difícil distinção, ou seja
+, que possuem padrões parecidos com de imagens realmente benignas
