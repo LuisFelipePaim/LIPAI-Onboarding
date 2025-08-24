@@ -1,7 +1,7 @@
 from matplotlib import pyplot as plt
 import numpy as np
 
-plt.style.use("ggplot")
+plt.style.use("ggplot   ")
 x = np.linspace(0, 2*np.pi, 300)
 y = np.cos(3*x)
 

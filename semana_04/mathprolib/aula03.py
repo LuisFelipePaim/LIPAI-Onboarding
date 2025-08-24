@@ -15,16 +15,17 @@ plt.subplots_adjust(
     hspace = 0.736
 )
 
-ax1 = plt.subplot(2, 1, 1)
+ax1 = plt.subplots(2, 1, 1)
 plt.plot(x, c)
 ax1.set_title("Gráfico do Cosseno")
 ax1.set_xlabel("Eixo de Tempo")
 ax1.set_ylabel("Eixo de Amplitude")
 
-ax2 = plt.subplot(2, 1, 2)
+ax2 = plt.subplots(2, 1, 2)
 plt.plot(x, s)
 ax2.set_title("Gráfico do Seno")
 ax2.set_xlabel("Eixo de Tempo")
 ax2.set_ylabel("Eixo de Amplitude")
+
 
 plt.show()

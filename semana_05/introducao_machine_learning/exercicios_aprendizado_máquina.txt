@@ -1,0 +1,42 @@
+Exercícios do Módulo de Introdução a Aprendizado de Máquina
+
+Exercicios do Livro
+
+5 - A I.A. generativa representa um subconjunto do Machine Learning,
+mais especificamente do deep learning, que tem como foco não a análise
+de dados existentes, mas sim focada em gerar conteúdo novo. Alguns 
+avanços potencializaram a evolução das I.A's generativas, sendo alguns deles:
+    -Transformers: arquitetura que possibilitou sistemas de I.A. entenderem
+    a relação entre as palavras e o contexto da frase de forma mais sofisti-
+    cada. O que pavimentou o caminho para conversação com I.A. avançada.
+    -GANs(Generative Adversarial Networks): essses sistemas operam com
+    um framework onde duas redes neurais de aprenzidado profundo estão em um 
+    processo competitivo, uma rede generativa se esforça na produção de dados
+    realistas, enquanto isso uma rede discriminadora faz a diferenciação de um
+    dado real e um dado gerado de forma artificial. Essa dinâmica de competição
+    promove um ciclo de constante aperfeiçoamento, conduzindo melhoras na qualidade
+    na qualidade e no realismo do conteúdo gerado.
+    -Modelos de Difusão: já esses, aprendem para gerar novos dados revertendo gradualmente
+    um processo de adição de ruído em dados existentes. Esses se provaram excepcionalmente
+    poderosos em generar imagens de alta resolução e outras mídias complexas.
+  
+
+8 - Skils essenciais para um profissional do machine learning são: engenharia de software, ou seja,
+a habilidade de escrever programas de computador, entender sobre algoritmos e estruturas de dados, além
+disso conhecimento sobre arquitetura e organização de computadores, outra skill importante é na área de
+estátistica e matemática, isso implica na proeficiência em testes hipotéticos, modelação de dados e entender
+conceitos matemáticos, como probabilidade, estátistica e álgebra linear, e por fim conceber uma estratégia de
+avaliação para modelos e algoritmos preditivos. 
+
+9 - Podemos citar como exemplo de aplicação o reconhecimento de imagem, nesse meio exemplos de aplicações na vida
+real são: identificação e classificação de objetos ou padrões em imagens digitais, outro exemplo seria o rotulamento
+de exames raio-X como cancerigênos ou não-cancerigênos. Reconhecimento de fala, como exemplo dela podemos citar: traduzir
+uma fala em texto que a máquina pode entender e trabalhar em cima dele, também pode ser usada para pesquisa, ferramentas 
+que utilizam essa aplicação são como exemplo: Google Home, Google Assistant e Alexa. Outra forma área que usufrui dessa 
+tecnologia é a agricultura, nela podemos fazer uso de machine learning para reduzir o uso de mão de obra humana e ainda 
+ter um aumento na quantidade e na qualidade das plantações, além disso, pode ser usado também para prever o crescimento 
+da plantação. Ademais, a indústria automotiva também pode fazer uso de machine learning, possibilitando a construção de 
+carros que possuem algoritmos que analisam dados coletados de camêras e sensores, interpretando eles e fazendo decisões 
+como exemplo temos: carros da autônomos da Google's e da Tesla's. Por fim, podemos falar sobre machine learning aplicada 
+a cibersegurança, detectando e previnindo ameaças a segurança, podemos citar como exemplos práticos: detecção de malware,
+detecção de intrusão e detecção de vulnerabilidades

@@ -1,0 +1,1 @@
+Sim, foram encontrados outliers no dataset em questão.
